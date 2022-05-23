@@ -39,7 +39,7 @@ module.exports = {
 
   // [OPTIONAL] This is where you specify the folders that are password protected. It is an array of paths pointing to all
   // the directories in which you have .password set. Check the documentation for details.
-  protectedRoutes: ["/Private","/onedrive-vercel-index/密码保护"],
+  protectedRoutes: ['/密码保护','/Private'],
 
   // [OPTIONAL] Use "" here if you want to remove this email address from the nav bar.
   email: '',
